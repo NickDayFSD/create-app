@@ -1,10 +1,10 @@
 {
-  "name": "@alchemycodelab/create-app",
+  "name": "@nickdayfsd/create-app",
   "version": "6.2.2",
   "description": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/alchemycodelab/create-app"
+    "url": "https://github.com/NickDayFSD/create-app"
   },
   "bin": {
     "create-app": "./index.js"
